@@ -1,7 +1,4 @@
 # Back-End Web Development 1 - HTTP5125
-
-![Front-End Web Development](/images/c.png)
-
 This Repo is for my Back-End Web Development 1 - HTTP5125 Assignment.
 
 [Learn C# basic for Back-End](https://www.w3schools.com/cs/index.php)
