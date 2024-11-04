@@ -1,0 +1,32 @@
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\appsettings.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\C# assignment 2.exe
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\C# assignment 2.deps.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\C# assignment 2.runtimeconfig.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\C# assignment 2.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\C# assignment 2.pdb
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.csproj.AssemblyReference.cache
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.AssemblyInfoInputs.cache
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.AssemblyInfo.cs
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.C# assignment 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.build.C# assignment 2.props
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.C# assignment 2.props
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.C# assignment 2.props
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\scopedcss\bundle\C# assignment 2.styles.css
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assig.12077A93.Up2Date
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\refint\C# assignment 2.dll
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.pdb
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\C# assignment 2.genruntimeconfig.cache
+C:\Users\suman\Downloads\C# assignment 2\C# assignment 2\obj\Debug\net8.0\ref\C# assignment 2.dll

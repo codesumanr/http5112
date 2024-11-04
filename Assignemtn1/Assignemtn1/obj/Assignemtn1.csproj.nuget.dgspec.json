@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suman\\Downloads\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj": {}
+    "C:\\Users\\suman\\Source\\Repos\\http5125\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suman\\Downloads\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj": {
+    "C:\\Users\\suman\\Source\\Repos\\http5125\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suman\\Downloads\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj",
+        "projectUniqueName": "C:\\Users\\suman\\Source\\Repos\\http5125\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj",
         "projectName": "Assignemtn1",
-        "projectPath": "C:\\Users\\suman\\Downloads\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj",
+        "projectPath": "C:\\Users\\suman\\Source\\Repos\\http5125\\Assignemtn1\\Assignemtn1\\Assignemtn1.csproj",
         "packagesPath": "C:\\Users\\suman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suman\\Downloads\\Assignemtn1\\Assignemtn1\\obj\\",
+        "outputPath": "C:\\Users\\suman\\Source\\Repos\\http5125\\Assignemtn1\\Assignemtn1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suman\\AppData\\Roaming\\NuGet\\NuGet.Config",
